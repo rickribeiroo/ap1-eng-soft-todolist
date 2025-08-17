@@ -1,1 +1,4 @@
-[]
+[
+    {"id": 1, "titulo": "Estudar PHP", "status": "pendente"},
+    {"id": 2, "titulo": "Estudar CSS", "status": "feito"}
+]
