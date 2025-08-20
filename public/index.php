@@ -1,1 +1,2 @@
-// Front controller (rota principal) | main page
+<?php
+require_once __DIR__ . '/../app/Core/Router.php';
